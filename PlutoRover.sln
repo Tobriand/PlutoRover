@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlutoRover.Core", "PlutoRover.Core\PlutoRover.Core.csproj", "{BB067D74-BFB6-4EB2-88D6-163CB24C3832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB067D74-BFB6-4EB2-88D6-163CB24C3832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB067D74-BFB6-4EB2-88D6-163CB24C3832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB067D74-BFB6-4EB2-88D6-163CB24C3832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB067D74-BFB6-4EB2-88D6-163CB24C3832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA39C832-318D-4DBB-A1D8-362FB2D7E461}
+	EndGlobalSection
+EndGlobal
