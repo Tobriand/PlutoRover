@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlutoRover.Core", "PlutoRover.Core\PlutoRover.Core.csproj", "{BB067D74-BFB6-4EB2-88D6-163CB24C3832}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlutoRover.Tests", "PlutoRover.Tests\PlutoRover.Tests.csproj", "{9492AA70-A9EC-444F-8FBE-CCFA024CB745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlutoRover.Interfaces", "PlutoRover.Interfaces\PlutoRover.Interfaces.csproj", "{4419AECE-958C-45D9-99B3-8C98C203F5DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{BB067D74-BFB6-4EB2-88D6-163CB24C3832}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB067D74-BFB6-4EB2-88D6-163CB24C3832}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB067D74-BFB6-4EB2-88D6-163CB24C3832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9492AA70-A9EC-444F-8FBE-CCFA024CB745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9492AA70-A9EC-444F-8FBE-CCFA024CB745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9492AA70-A9EC-444F-8FBE-CCFA024CB745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9492AA70-A9EC-444F-8FBE-CCFA024CB745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4419AECE-958C-45D9-99B3-8C98C203F5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4419AECE-958C-45D9-99B3-8C98C203F5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4419AECE-958C-45D9-99B3-8C98C203F5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4419AECE-958C-45D9-99B3-8C98C203F5DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
